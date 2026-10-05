@@ -1,0 +1,58 @@
+[
+  {
+    "title": "RE: Request to enable OpenSSH Authentication Agent service on my laptop",
+    "from": "Sukirdhas@Kayaintel.com",
+    "ref": "",
+    "priority": "medium",
+    "status": "waiting",
+    "date": "",
+    "time": "",
+    "tags": "Teamviewer",
+    "notes": "Manger approved the changes, waiting for the users Teamviewer credentials",
+    "id": "qf0bavf",
+    "order": 0,
+    "created": 1791206613107
+  },
+  {
+    "title": "Re: Undelivered Mail -Zoho recruit confirmation - send email as bhuvanae@kayaintel.com",
+    "from": "bhuvanae@Kayaintel.com",
+    "ref": "",
+    "priority": "high",
+    "status": "waiting",
+    "date": "",
+    "time": "",
+    "tags": "Teamviewer, ZOHO",
+    "notes": "Once approved need to check for the typo in ZOHO settings",
+    "id": "x9rmohp",
+    "order": 0,
+    "created": 1791206689194
+  },
+  {
+    "title": "RE: Sharepoint Creation",
+    "from": "bhuvanae@Kayaintel.com",
+    "ref": "",
+    "priority": "medium",
+    "status": "inbox",
+    "date": "",
+    "time": "",
+    "tags": "MS Admin Center, AdminPC",
+    "notes": "Once external users replies need to check admin dashboard",
+    "id": "3cdu64m",
+    "order": 1,
+    "created": 1791206767830
+  },
+  {
+    "title": "RE: Request to add/remove members and naming convention of email ID's",
+    "from": "balajik@Kayaintel.com",
+    "ref": "",
+    "priority": "urgent",
+    "status": "done",
+    "date": "",
+    "time": "",
+    "tags": "MS Admin Center",
+    "notes": "Made changes after manager approval as requested",
+    "id": "r7t1ard",
+    "order": 0,
+    "created": 1791206820988
+  }
+]
